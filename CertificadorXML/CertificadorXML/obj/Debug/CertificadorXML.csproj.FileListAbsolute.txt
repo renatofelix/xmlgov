@@ -1,0 +1,10 @@
+C:\Users\renat\source\repos\CertificadorXML\CertificadorXML\bin\Debug\CertificadorXML.exe.config
+C:\Users\renat\source\repos\CertificadorXML\CertificadorXML\bin\Debug\CertificadorXML.exe
+C:\Users\renat\source\repos\CertificadorXML\CertificadorXML\bin\Debug\CertificadorXML.pdb
+C:\Users\renat\source\repos\CertificadorXML\CertificadorXML\obj\Debug\CertificadorXML.csprojAssemblyReference.cache
+C:\Users\renat\source\repos\CertificadorXML\CertificadorXML\obj\Debug\CertificadorXML.Form1.resources
+C:\Users\renat\source\repos\CertificadorXML\CertificadorXML\obj\Debug\CertificadorXML.Properties.Resources.resources
+C:\Users\renat\source\repos\CertificadorXML\CertificadorXML\obj\Debug\CertificadorXML.csproj.GenerateResource.cache
+C:\Users\renat\source\repos\CertificadorXML\CertificadorXML\obj\Debug\CertificadorXML.csproj.CoreCompileInputs.cache
+C:\Users\renat\source\repos\CertificadorXML\CertificadorXML\obj\Debug\CertificadorXML.exe
+C:\Users\renat\source\repos\CertificadorXML\CertificadorXML\obj\Debug\CertificadorXML.pdb
